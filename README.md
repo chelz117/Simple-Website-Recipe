@@ -1,11 +1,7 @@
-Hi this is group 
-Members
-  Leader: Dela Cruz, Ellen
-  Members: Arroyo, Juliane Christine
-            Geopano , Christian
-            Vipinoso, Rica Rose 
-            Sarto, Sean Henjie 
-            Rodrigueza, Chelsea
+This website repository is our project in Open Source. 
 
-This project is for our Open Source , exploring github by trying and contributing.
-Thanks
+The members of this project is @seji1023, @violet2709, @cr155stian20
+and two others. 
+
+Feel free to fork and contribute to our project repository. 
+#HTML 
